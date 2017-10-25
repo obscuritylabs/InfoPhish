@@ -1,3 +1,6 @@
+<div class="github-card" data-width="400" data-height="" data-github="https://github.com/InfoPhish/InfoPhish" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 # InfoPhish
 
 <p align="center">
