@@ -35,4 +35,5 @@
 ## Credits
 * Steve Borosh @424f424f – Helped with deployment 
 * Chris Ross @Xorrior & Jesse Reiner @unclejesse – Helped with phishing aspects
-* Aaron Bray @Ambray – Built PE Hollowing 
+* Aaron Bray @Ambray – Built PE Hollowing
+* Alexander Rymdeko-Harvey @Killswitch-GUI  - TTP Dev
