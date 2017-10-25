@@ -13,6 +13,16 @@
 - Office Professional Plus 2013
 - .NET Framework 3.5 SP1
 
+## File Structure
+<p align="center">
+<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/file.PNG" width="400">
+</p>
+
+## Process Hollowing Process Used
+<p align="center">
+<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/hollow.PNG" width="400">
+</p>
+
 ## Example Build's
 
 - HelloWorld: [HelloWorld.mp4](../VideoExamples/HelloWorld-Example-mainc.7z)
