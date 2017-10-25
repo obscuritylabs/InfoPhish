@@ -1,4 +1,4 @@
- # InfoPhish
+*  # InfoPhish
 
 <p align="center">
 <img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/infopathfuture.jpg" width="400">
@@ -22,6 +22,6 @@
 - CsPleaseHollow: [CalcPleaseInjection.mp4](../VideoExamples/CsPlease-Beacon-ProcessHollow-mainc.7z)
 
 ## Credits
-Steve Borosh @424f424f – Helped with deployment 
-Chris Ross @Xorrior & Jesse Reiner @unclejesse – Helped with phishing aspects
-Aaron Bray @Ambray – Built PE Hollowing 
+* Steve Borosh @424f424f – Helped with deployment 
+* Chris Ross @Xorrior & Jesse Reiner @unclejesse – Helped with phishing aspects
+* Aaron Bray @Ambray – Built PE Hollowing 
