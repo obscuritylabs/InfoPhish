@@ -1,3 +1,5 @@
  # InfoPhish
 
-![alt text](https://github.com/InfoPhish/InfoPhish/blob/master/Extras/infopathfuture.jpg =250x25)
+![alt text](https://github.com/InfoPhish/InfoPhish/blob/master/Extras/infopathfuture.jpg)
+
+<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/infopathfuture.jpg" width="48">
