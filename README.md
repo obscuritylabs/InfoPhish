@@ -20,3 +20,8 @@
 - CalcPleaseWin: [CalcPleaseWin.mp4](../VideoExamples/CalcPlease-Example-Win-mainc.7z)
 - CsPleaseInjection: [CalcPleaseInjection.mp4](../VideoExamples/CsPlease-Beacon-Injection-mainc.7z)
 - CsPleaseHollow: [CalcPleaseInjection.mp4](../VideoExamples/CsPlease-Beacon-ProcessHollow-mainc.7z)
+
+## Credits
+Steve Borosh @424f424f – Helped with deployment 
+Chris Ross @Xorrior & Jesse Reiner @unclejesse – Helped with phishing aspects
+Aaron Bray @Ambray – Built PE Hollowing 
