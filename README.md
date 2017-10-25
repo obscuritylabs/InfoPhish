@@ -1,4 +1,4 @@
-# InfoPhish
+9# InfoPhish
 
 <p align="center">
 <img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/infopathfuture.jpg" width="400">
@@ -15,12 +15,12 @@
 
 ## File Structure
 <p align="center">
-<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/file.PNG" width="400">
+<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/file.PNG" width="900">
 </p>
 
 ## Process Hollowing Process Used
 <p align="center">
-<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/hollow.PNG" width="400">
+<img src="https://github.com/InfoPhish/InfoPhish/blob/master/Extras/hollow.PNG" width="900">
 </p>
 
 ## Example Build's
