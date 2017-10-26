@@ -26,6 +26,8 @@
 
 ## Example Build's
 
+VIDEO SERIES ON YOUTUBE: [INFOPHISH](http://www.youtube.com/playlist?list=PLqEXLZOvVefwVbO2mswKGdjFiPdhkuobT)
+
 - HelloWorld: [HelloWorld.mp4](../VideoExamples/HelloWorld-Example-mainc.7z)
 - CalcPleaseFail: [CalcPleaseFail.mp4](../VideoExamples/CalcPlease-Example-Fail-mainc.7z)
 - CalcPleaseWin: [CalcPleaseWin.mp4](../VideoExamples/CalcPlease-Example-Win-mainc.7z)
